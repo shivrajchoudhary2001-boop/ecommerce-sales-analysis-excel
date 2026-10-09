@@ -13,5 +13,5 @@
 
 🎯 **Goal:** Turn raw sales data into actionable business insights and data-driven recommendations.
 
-🔗 **Project Repository:** (https://1drv.ms/x/c/06efa6d4f22e854a/IQCyzOjvGZ63Q7aHKNxfiK-eAWcyCrS2TaAMZ4CMF7jzwXU?e=Hrvac0) ecommerce-sales-analysis-excel
+🔗 **Project Repository:** https://1drv.ms/x/c/06efa6d4f22e854a/IQCyzOjvGZ63Q7aHKNxfiK-eAWcyCrS2TaAMZ4CMF7jzwXU?e=pm08JQ
 Interactive Ecommerce Sales Analysis Dashboard using Excel, Power Query, PivotTables, Pivot Charts, and Slicers.
