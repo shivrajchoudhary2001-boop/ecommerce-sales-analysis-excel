@@ -3,9 +3,8 @@
 📊 **34,500 Orders Analysed** | 💰 **5.87M Revenue** | 📈 **0.97M Profit**
 
 - 🧹 Cleaned and transformed raw data using **Power Query**, including date-locale and encoding fixes.
-- 🧮 Applied **SUMIFS, COUNTIFS, AVERAGEIFS, IF, RANK, VLOOKUP, and CORREL** for data analysis.
-- 📊 Built an interactive dashboard with **9 PivotTables, Pivot Charts, Slicers, and a Timeline**.
-- 🔍 Identified key business insights, including Electronics' **57% revenue contribution** and Grocery's **-11% profit margin**.
+- 🧮 Applied **SUMIFS, COUNTIFS, AVERAGEIFS, IF, RANK, VLOOKUP for data analysis.
+- 📊 Built an interactive dashboard with ** PivotTables, Pivot Charts, Slicers, and a Timeline**.
 - 🚨 Analysed return rates, discount impact, category profitability, and revenue trends.
 - 💡 Recommended discount controls, minimum basket values, and strategies to reduce product returns.
 
